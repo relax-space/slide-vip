@@ -1,0 +1,4 @@
+pyppeteer
+opencv-python
+Pillow
+requests

@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+account/
+!account/init
+data/
+!data/init
+
